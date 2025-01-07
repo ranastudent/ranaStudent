@@ -62,3 +62,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ranastudent/ranastudent/output/snake.svg" alt="Snake animation" />
+
+###
