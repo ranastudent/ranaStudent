@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-vector/creative-gradient-code-logo_23-2148820572.jpg" />
+  <img height="800" src="https://img.freepik.com/free-vector/creative-gradient-code-logo_23-2148820572.jpg" />
 </div>
 
 ###
